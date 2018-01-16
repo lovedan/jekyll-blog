@@ -29,10 +29,10 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 disqus:
   shortname: jiangnan
 
-# 
-ga:google analytics config
-  id: UA-54767140-1
-  url: yansu.org
+# google analytics config
+ga:
+  id: 
+  url: 
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
