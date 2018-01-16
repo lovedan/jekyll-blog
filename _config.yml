@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 江南品味
+email: admin@jiangnan.pw
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  江南品味，记录编程道路上的点点滴滴。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://github.jiangnan.pw # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: 江南品味
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,12 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: kyounan719
+facebook: kyounan719
+weibo: ddmfnet
+github: lovedan
+#instagram: suyan404
+#linkedin: suyan404
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -26,10 +27,10 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: jiangnan
 
-# google analytics config
-ga:
+# 
+ga:google analytics config
   id: UA-54767140-1
   url: yansu.org
 
