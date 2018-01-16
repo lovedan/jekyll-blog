@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Sublime配置文件同步
-categories:
+category:
   - 软件相关
   - Windows
 date: 2017-02-22 04:14:37
