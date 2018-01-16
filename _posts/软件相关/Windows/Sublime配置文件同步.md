@@ -3,7 +3,6 @@ layout: post
 title: Sublime配置文件同步
 category: 软件相关
 tags: 编程软件
-thumbnail: https://lh3.googleusercontent.com/-Xc2Gu93qCgQ/WK0RD3uALXI/AAAAAAAABrc/gjwwbrMYRlE/s0/2017-02-22_13-18-23.png
 ---
 <!--excerpt-->
 
