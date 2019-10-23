@@ -3,8 +3,6 @@ _drafts/
 .DS_Store
 .idea/
 .sass-cache
-Gemfile
-Gemfile.lock
 _posts/.MWebMetaData/
 .jekyll-metadata
 start
