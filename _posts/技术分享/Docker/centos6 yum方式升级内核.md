@@ -1,10 +1,11 @@
 ---
+layout: post
 title: centos6 yum方式升级内核
 date: 2017-07-31 06:28:41
 tags: 
 - docker
 - centos
-categories: 
+category: 
 - 技术分享
 - Docker
 thumbnail: https://lh3.googleusercontent.com/-HdgXZcekhys/WX6Wg2TmE7I/AAAAAAAADIs/_cRgLneca0U-IF6YnB0HrcqaLro55XITACHMYCw/s0/2017-07-31_11-31-30.png

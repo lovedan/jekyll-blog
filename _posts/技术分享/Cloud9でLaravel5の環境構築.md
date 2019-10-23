@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cloud9でLaravel5の環境構築
 categories:
   - 技术分享

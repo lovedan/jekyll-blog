@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 移除Mac的.DS_Store、._ 檔
 tags: [Mac技巧]
-categories: 
+category: 
 - 苹果相关
 - Mac技巧
 date: 2017-02-16 01:28:40

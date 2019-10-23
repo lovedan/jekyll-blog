@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Github之SSH连接配置
 categories:
 - 技术分享

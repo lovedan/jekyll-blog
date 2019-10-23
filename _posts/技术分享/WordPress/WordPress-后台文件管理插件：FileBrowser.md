@@ -1,8 +1,9 @@
 ---
+layout: post
 title: WordPress 后台文件管理插件：FileBrowser
 date: 2016-10-17 05:05:54
 tags: [WordPress,plugins]
-categories: 
+category: 
 - 技术分享
 - WordPress
 thumbnail: https://dl.dropbox.com/s/ju6fp7yj13acoms/wordpress.jpg?dl=0

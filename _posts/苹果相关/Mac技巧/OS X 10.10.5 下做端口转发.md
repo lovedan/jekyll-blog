@@ -1,4 +1,5 @@
 ---
+layout: post
 title: OS X 10.10.5 下做端口转发
 categories:
 - 苹果相关

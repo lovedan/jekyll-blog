@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Postfixでローカルメール以外をSMTP認証サーバやGMAILにリレーするための設定を記載します
 categories:
 - 苹果相关

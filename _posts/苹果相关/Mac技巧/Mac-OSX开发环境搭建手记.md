@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Mac OSX开发环境搭建手记
 categories:
 - 苹果相关

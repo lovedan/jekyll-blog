@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Why is @font-face throwing a 404 error on woff files?
 categories:
   - 技术分享

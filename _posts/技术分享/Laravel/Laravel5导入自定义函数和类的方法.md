@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Laravel5导入自定义函数和类的方法
 date: 2016-12-01 07:19:55
 tags: [laravel]
 keywords: [laravel]
-categories: 
+category: 
 - 技术分享
 - Laravel
 thumbnail: https://dl.dropboxusercontent.com/s/onmlew6rmnd33ct/SuRyW14362693901Laravel-5%5B1%5D.png?dl=0

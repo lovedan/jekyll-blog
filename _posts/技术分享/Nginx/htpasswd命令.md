@@ -1,9 +1,10 @@
 ---
+layout: post
 title: htpasswd命令
 date: 2017-04-02 22:11:14
 tags: [htpasswd,nginx]
 keywords: [htpasswd,nginx]
-categories: 
+category: 
 - 技术分享
 - Nginx
 thumbnail: https://lh3.googleusercontent.com/-OMpbTfccKzI/WOD6_zw6G2I/AAAAAAAAB6E/VwOBAQ0IJDA/s0/2017-04-02_22-22-06.png

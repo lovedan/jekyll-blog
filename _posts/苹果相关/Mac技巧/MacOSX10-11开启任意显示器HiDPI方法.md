@@ -1,8 +1,9 @@
 ---
+layout: post
 title: MacOSX10.11开启任意显示器HiDPI方法
 date: 2016-11-08 05:27:16
 tags: [Mac技巧]
-categories: 
+category: 
 - 苹果相关
 - Mac技巧
 thumbnail: https://lh3.googleusercontent.com/-WeKKYXOBCRE/WKUCgnwOJhI/AAAAAAAABoM/9DVKBjbXeR4/s0/2017-02-16_10-38-03.png

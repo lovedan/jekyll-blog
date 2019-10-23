@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 找回Sierra允许“任何来源”的应用
 tags: [Mac技巧]
-categories: 
+category: 
 - 苹果相关
 - Mac技巧
 date: 2017-02-16 16:13:07

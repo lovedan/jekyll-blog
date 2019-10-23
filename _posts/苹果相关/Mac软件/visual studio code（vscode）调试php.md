@@ -1,8 +1,9 @@
 ---
+layout: post
 title: visual studio code（vscode）调试php
 date: 2017-09-16 10:48:27
 tags: [vscode,Mac软件]
-categories: 
+category: 
 - 苹果相关
 - Mac软件
 thumbnail: https://lh3.googleusercontent.com/-nV1uTHeFNGA/Wa4KdnKpzOI/AAAAAAAADc4/gLSx2GPOV_8DxfrlZdX7ROvrvSB7RjY1gCHMYCw/I/15045781654402.jpg

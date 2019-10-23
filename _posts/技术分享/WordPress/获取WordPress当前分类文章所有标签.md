@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 获取WordPress当前分类文章所有标签
 date: 2016-10-17 04:25:16
 tags: [WordPress,技术分享]
-categories: 
+category: 
 - 技术分享
 - WordPress
 thumbnail: https://dl.dropbox.com/s/ju6fp7yj13acoms/wordpress.jpg?dl=0

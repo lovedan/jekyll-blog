@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 开启Fusion Drive功能教程 双硬盘 SSD+HDD
 tags: [Mac技巧]
-categories: 
+category: 
 - 苹果相关
 - Mac技巧
 date: 2017-02-03 05:44:35

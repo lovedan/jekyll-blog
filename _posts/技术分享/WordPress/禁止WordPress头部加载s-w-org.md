@@ -1,8 +1,9 @@
 ---
+layout: post
 title: 禁止WordPress头部加载s.w.org
 date: 2016-10-17 05:49:24
 tags: [WordPress,技术分享]
-categories: 
+category: 
 - 技术分享
 - WordPress
 thumbnail: https://dl.dropbox.com/s/ju6fp7yj13acoms/wordpress.jpg?dl=0

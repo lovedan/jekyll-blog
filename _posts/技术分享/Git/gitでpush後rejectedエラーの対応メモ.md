@@ -1,4 +1,5 @@
 ---
+layout: post
 title: GitHub初心者の僕が、初めてGitHubリポジトリにpushしたら、rejectedエラーになったので、ちゃんとpushできるようになるまでの対応をメモしました。
 categories:
 - 技术分享

@@ -1,8 +1,9 @@
 ---
+layout: post
 title: Alfred实现七牛上传文件
 date: 2016-10-16 00:48:27
 tags: [Alfred,Mac软件]
-categories: 
+category: 
 - 苹果相关
 - Mac软件
 thumbnail: https://dl.dropboxusercontent.com/s/s9qruvd9p3zarnv/alfred.jpg?dl=0

@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Laravel5自定义环境变量
 date: 2017-02-03 07:19:55
 tags: [laravel]
 keywords: [laravel]
-categories: 
+category: 
 - 技术分享
 - Laravel
 thumbnail: https://dl.dropboxusercontent.com/s/onmlew6rmnd33ct/SuRyW14362693901Laravel-5%5B1%5D.png?dl=0

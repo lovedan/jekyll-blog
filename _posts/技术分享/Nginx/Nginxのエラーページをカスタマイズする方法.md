@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Nginxのエラーページをカスタマイズする方法
 date: 2017-01-19 08:06:00
 tags: [nginx]
 keywords: [nginx]
-categories: 
+category: 
 - 技术分享
 - Nginx
 thumbnail: https://3.bp.blogspot.com/-GTMV1FZM2Gc/WXxmfIiqmcI/AAAAAAAADGw/waxjX4NS9C4xF2-rnTU4ZU8fnSjvqT1MACKgBGAs/s1600/Nginx-server-compile-list.jpg

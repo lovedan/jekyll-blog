@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 解决升级 OS X EI Capitan 后 Wineskin 打包的游戏无法运行的问题
 tags: [Mac技巧]
-categories: 
+category: 
 - 苹果相关
 - Mac技巧
 date: 2017-01-20 04:05:05

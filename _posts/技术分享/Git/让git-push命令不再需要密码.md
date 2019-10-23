@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 让git push命令不再需要密码
 categories:
 - 技术分享

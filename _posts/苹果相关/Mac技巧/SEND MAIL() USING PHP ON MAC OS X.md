@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SEND MAIL() USING PHP ON MAC OS X
 categories:
 - 苹果相关
