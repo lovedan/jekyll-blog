@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://github.jiangnan.pw](http://github.jiangnan.pw)
+地址：[https://note.jiangnan.pw](https://note.jiangnan.pw)
 
 ### 安装说明
 
